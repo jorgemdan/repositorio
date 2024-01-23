@@ -1,2 +1,3 @@
 # repositorio
- projetos web designer 
+ Projetos de design web utilizando HTML, CSS e JavaScript
+ 
